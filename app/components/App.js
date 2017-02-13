@@ -1,6 +1,6 @@
 /*eslint no-unused-vars: 1*/
 import React, {Component} from "react";
-import app from "../style/app.sass";
+import app from "../style/app.scss";
 
 export default class AppContainer extends Component {
     render() {
