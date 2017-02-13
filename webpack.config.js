@@ -37,7 +37,7 @@ var config = {
                 }
             },
             {
-                test: /\.sass$/,
+                test: /\.scss$/,
                 loaders: ["style-loader", "css-loader", "sass-loader"]
             }
         ]
